@@ -1,2 +1,1 @@
-# paula.dev.br
-Website paula.dev.br
+redirects paulacastelan.com.br to bio.paula.dev.br
